@@ -1,4 +1,6 @@
+- name: MultiTrans
+  href: index.md
 - name: Articles
   href: articles/
-- name: MultiTrans APIs
+- name: API
   href: apiconcepts/
